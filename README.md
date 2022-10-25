@@ -5,7 +5,7 @@
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gussball&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gussball&layout=compact)](https://github.com/Gussball/github-readme-stats)
-<hr>
+
 
 ## Tecnologias que mais curto e estou estudando:
 
