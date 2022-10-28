@@ -1,4 +1,4 @@
-### Olá! Eu sou Gustavo Baldavia. 👋
+# Iae! Tudo bem? 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-baldávia-a5545223a/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gstv.baldavia/)
 
@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gussball&layout=compact)](https://github.com/Gussball/github-readme-stats)
 
 
-## Tecnologias que mais curto e estou estudando:
+# Tecnologias que mais curto e estou estudando:
 
 <div style="display: inline_block"><br>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
