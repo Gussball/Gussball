@@ -2,6 +2,7 @@
 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/100603056097748207/709FB80DEAA41EA5F3DBB9575B824ACFDBEA3915/?imw=1024&imh=545&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
+ # Minhas redes:<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-baldavia/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo.baldavia/)
 
