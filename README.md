@@ -1,4 +1,4 @@
-# Seja bem-vindo (a)! 
+# <h1>Seja bem-vindo (a)!<h1>
 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/100603056097748207/709FB80DEAA41EA5F3DBB9575B824ACFDBEA3915/?imw=1024&imh=545&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
@@ -18,3 +18,5 @@
 <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
+
+![Snake animation](https://github.com/Gussball/Gussball/blob/output/github-contribution-grid-snake.svg)
