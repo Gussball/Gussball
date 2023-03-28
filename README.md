@@ -1,6 +1,6 @@
 # <h1>Seja bem-vindo (a)!<h1>
 
-<div style="padding-top:133.333%;position:relative;"><iframe src="https://gifer.com/embed/fzUl" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<iframe src="https://gifer.com/embed/fzUl" width=480 height=640.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-baldavia/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo.baldavia/)
