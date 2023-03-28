@@ -2,7 +2,7 @@
 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/100603056097748207/709FB80DEAA41EA5F3DBB9575B824ACFDBEA3915/?imw=1024&imh=545&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
- # Me siga:<br>
+ ## Me siga:<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-baldavia/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo.baldavia/)
 
@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gussball&layout=compact)](https://github.com/Gussball/github-readme-stats)
 
 
-# Tecnologias que mais curto e estou estudando:
+## Tecnologias que mais curto e estou estudando:
 
 <div style="display: inline_block"><br>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
