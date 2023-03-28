@@ -2,7 +2,7 @@
 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/100603056097748207/709FB80DEAA41EA5F3DBB9575B824ACFDBEA3915/?imw=1024&imh=545&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-baldávia-a5545223a/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gstv.baldavia/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-baldávia-a5545223a/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo.baldavia/)
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gussball&show_icons=true&theme=tokyonight)
 
