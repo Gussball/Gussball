@@ -1,4 +1,4 @@
-<h1 style="color: yellow">Seja bem-vindo(a)!<h1>
+<h1>Seja bem-vindo(a)!<h1>
 
 <img align="center" alt="HTML5" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
