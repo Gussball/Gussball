@@ -1,5 +1,6 @@
+<h1 style="color: #d7d7d7">Seja bem-vindo(a)!<h1>
+
 <img align="center" alt="HTML5" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<h1>Seja bem-vindo(a)!<h1>
 
  ## Minhas redes:<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-baldavia/) 
