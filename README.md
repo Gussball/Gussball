@@ -1,15 +1,19 @@
-<h1>Seja bem-vindo(a)!<h1>
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+</a>
+<br>
 
-<img alt="Homem programando em frente ao computador" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Gustavo;I'm+a+Front+End+Developer;Be+Welcome!+ツ)
+<br>
 
  ## Minhas redes:<br>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-baldavia/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo.baldavia/)
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gussball&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gussball&layout=compact)](https://github.com/Gussball/github-readme-stats)
-
 
 ## Tecnologias que mais curto e estou estudando:
 
@@ -22,5 +26,14 @@
 <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img align="center" alt="VUE.JS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </div>
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a> 
+
+**<h3><p align="center">Total de Visitas no Perfil</p></h3>**
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/Gussball/count.svg"/>
+</p>
 
 
