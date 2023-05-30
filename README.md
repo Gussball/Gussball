@@ -1,6 +1,6 @@
 <h1>Seja bem-vindo(a)!<h1>
 
-<img widht="100%" alt="HTML5" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img alt="Homem programando em frente ao computador" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
  ## Minhas redes:<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-baldavia/) 
