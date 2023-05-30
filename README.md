@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw3jrCZ7m5dGe3upqaP_Q4Bx&ust=1685529292045000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCKDnzIjsnP8CFQAAAAAdAAAAABAo" alt="">
+<img align="center" alt="HTML5" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h1>Seja bem-vindo(a)!<h1>
 
  ## Minhas redes:<br>
