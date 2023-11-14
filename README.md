@@ -27,13 +27,14 @@
 <img align="center" alt="VUE.JS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </div>
 
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
-</a> 
-
 **<h3><p align="center">Profile views</p></h3>**
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/Gussball/count.svg"/>
 </p>
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a> 
+
 
 
